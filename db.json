@@ -1,0 +1,29 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "nombre": "Naruto",
+      "capitulos": "220"
+    },
+    {
+      "id": 2,
+      "nombre": "Jujutsu Kaisen",
+      "capitulos": "24"
+    },
+    {
+      "id": 3,
+      "nombre": "Boku dake ga Inai Machi",
+      "capitulos": "12"
+    },
+    {
+      "nombre": "Zero no Sho",
+      "capitulos": "12",
+      "id": 4
+    },
+    {
+      "nombre": "Fullmetal Alchemist: Brotherhood",
+      "capitulos": "64",
+      "id": 5
+    }
+  ]
+}
